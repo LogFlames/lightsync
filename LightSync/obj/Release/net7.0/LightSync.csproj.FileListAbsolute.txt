@@ -1,0 +1,15 @@
+C:\Users\Elias Lundell\code\lightsync\LightSync\bin\Release\net7.0\LightSync.exe
+C:\Users\Elias Lundell\code\lightsync\LightSync\bin\Release\net7.0\LightSync.deps.json
+C:\Users\Elias Lundell\code\lightsync\LightSync\bin\Release\net7.0\LightSync.runtimeconfig.json
+C:\Users\Elias Lundell\code\lightsync\LightSync\bin\Release\net7.0\LightSync.dll
+C:\Users\Elias Lundell\code\lightsync\LightSync\bin\Release\net7.0\LightSync.pdb
+C:\Users\Elias Lundell\code\lightsync\LightSync\obj\Release\net7.0\LightSync.csproj.AssemblyReference.cache
+C:\Users\Elias Lundell\code\lightsync\LightSync\obj\Release\net7.0\LightSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Lundell\code\lightsync\LightSync\obj\Release\net7.0\LightSync.AssemblyInfoInputs.cache
+C:\Users\Elias Lundell\code\lightsync\LightSync\obj\Release\net7.0\LightSync.AssemblyInfo.cs
+C:\Users\Elias Lundell\code\lightsync\LightSync\obj\Release\net7.0\LightSync.csproj.CoreCompileInputs.cache
+C:\Users\Elias Lundell\code\lightsync\LightSync\obj\Release\net7.0\LightSync.dll
+C:\Users\Elias Lundell\code\lightsync\LightSync\obj\Release\net7.0\refint\LightSync.dll
+C:\Users\Elias Lundell\code\lightsync\LightSync\obj\Release\net7.0\LightSync.pdb
+C:\Users\Elias Lundell\code\lightsync\LightSync\obj\Release\net7.0\LightSync.genruntimeconfig.cache
+C:\Users\Elias Lundell\code\lightsync\LightSync\obj\Release\net7.0\ref\LightSync.dll
